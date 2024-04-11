@@ -1,5 +1,5 @@
 #!/usr/bin/java
-public test {
+public class test {
 
   
   public static main void(String[] args){

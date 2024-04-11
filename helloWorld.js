@@ -1,3 +1,8 @@
 #!/usr/bin/java
+public test {
 
-System.out.print("Hello world!!");
+  
+  public static main void(String[] args){
+    System.out.print("Hello world!!");
+  }
+}
